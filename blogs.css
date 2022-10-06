@@ -1,0 +1,27 @@
+.sidebar{
+    
+    width: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   height: 100vh;
+   background-color: rgb(101, 101, 101);
+}
+
+.sidebar nav li {
+    list-style:none;
+    font-size: 20px;
+    padding: 33px 0;
+}
+
+.sidebar nav li a{
+    text-decoration: none;
+    color:black;
+}
+
+
+.sidebar nav{
+    padding : 40px;
+   
+}
+.blogContainer{
+    
+}
